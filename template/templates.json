@@ -1,0 +1,17 @@
+{
+  "templates": [
+    {
+      "slug": "default",
+      "name": "Default template",
+      "description" : "This is default card.",
+      "version": "1.00",
+      "author": "Katsushi Kawamori",
+      "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
+      "files": {
+        "template_html": "childpagescard-template-html.php",
+        "template_css": "childpagescard-template-css.php",
+        "css": "childpagescard.css"
+      }
+    }
+  ]
+}

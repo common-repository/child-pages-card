@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "child-pages/childpagescard-block",
+  "title": "Child Pages Card",
+  "category": "widgets",
+  "icon": "editor-ul",
+  "description": "Displays child page archives in card form.",
+  "keywords": [
+	"archives",
+	"child page",
+	"page"
+  ],
+  "version": "1.0.5",
+  "textdomain": "child-pages-card",
+  "supports": {
+    "customClassName": false,
+    "className": false,
+    "html": false
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

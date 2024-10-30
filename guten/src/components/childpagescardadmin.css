@@ -1,0 +1,37 @@
+.boxRowContainer {
+	display: flex;
+	align-items: center;
+	margin-bottom: calc(8px);
+}
+div.components-base-control {
+	margin-bottom: 0;
+}
+div.components-base-control__field {
+	display: flex;
+	margin-bottom: 0 !important;
+}
+div.components-v-stack {
+	flex-direction: row !important;
+}
+div.components-radio-control__option {
+	padding-right: calc(16px);
+}
+table {
+	border-collapse: collapse;
+}
+.aStyle {
+	text-decoration: none;
+}
+div.outer-paragraph {
+  margin: 5px;
+  padding: 5px;
+}
+.outer-paragraph > ul > li {
+  list-style-position: inside;
+  list-style-type : disc;
+  margin-left: 0.9em;
+  text-indent: -0.9em;
+}
+div.inner-paragraph {
+  margin: 0 0 0 15px;
+}
